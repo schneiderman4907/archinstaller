@@ -1,0 +1,2 @@
+# archinstaller
+installs arch
